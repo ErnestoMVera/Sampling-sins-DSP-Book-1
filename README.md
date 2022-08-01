@@ -5,7 +5,6 @@ Este es un pequeño proyecto para experimentar con el sampleo de señales period
 graficamente que el periodo de una señal discreta depende del sampling rate y el periodo de la señal sampleada original.
 El periodo de la señal origianl solo va a conservar si el periodo/sampling rate de la señal es entero, si es racional, el periodo de la señal original no se va a conservar.
 
-Output:
 ![Output Img](graphs/output.png)
 
 Fuentes: 
