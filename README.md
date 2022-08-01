@@ -6,7 +6,7 @@ graficamente que el periodo de una señal discreta depende del sampling rate y e
 El periodo de la señal origianl solo va a conservar si el periodo/sampling rate de la señal es entero, si es racional, el periodo de la señal original no se va a conservar.
 
 Output:
-[Output Img](graphs/output.png)
+![Output Img](graphs/output.png)
 
 Fuentes: 
 [Alessio, 2016]  Alessio,  S.  M.  (2016).Digital  Signal  Processing  and  SpectralAnalysis for Scientists, pages 31–34. Springer International Publishing, Cham.
